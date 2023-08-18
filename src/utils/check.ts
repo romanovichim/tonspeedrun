@@ -63,7 +63,8 @@ export async function check() {
 		}
 	}
 	
-	const values = ['tonspeedrun','tonspeedrun2','tonspeedrun3'];
+	// no tonspeedrun since tonkeeper deploy doesnt send text
+	const values = ['tonspeedrun2','tonspeedrun3'];
 	
 	const multipleExist = values.every(value => {
 	  return msgs_text.includes(value);
