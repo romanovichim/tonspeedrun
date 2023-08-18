@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        uses: bahmutov/npk-install@v1
+        uses: bahmutov/npm-install@v1
 
       - name: Build project
         run: npm run build
