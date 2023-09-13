@@ -359,7 +359,7 @@ function App() {
     <Container fluid className="py-2 " >
       <h1 style={{ fontSize: "40px", fontWeight: "300"  }} className="text-white">This is the middle of the game</h1>
       <p className="text-muted mt-2">To access the next quests, you need to go through the first three and log in with the wallet you used in the walkthrough.</p>
-      <p className="text-muted ">I will also welcome your <a href="">feedback</a>.</p>
+      <p className="text-muted ">I will also welcome your <a href="https://forms.gle/5K4PFdQuvt57swV7A">feedback</a>.</p>
       
     </Container>
     </div>    
