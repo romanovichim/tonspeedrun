@@ -8,7 +8,7 @@ I created this product as an educational experiment and I'm so glad you're here!
 
 `TONspeedrun` is an educational experiment. 
 
-For more than a year I have been writing TON tutorials for my [channel](http://https://t.me/ton_learn) and publishing them [here](https://github.com/romanovichim/TonFunClessons_Eng). What I noticed:
+For more than a year I have been writing TON tutorials for my [channel](https://t.me/ton_learn) and publishing them [here](https://github.com/romanovichim/TonFunClessons_Eng). What I noticed:
 
 The problem of a typical tutorial on crypto is that only prepositions are clear to a beginner(cell from c4 using adnl to slice e.t.c), and that there are a lot of steps (and on the 28th step...) in the tutorials, each of which has a lot of theory.
 
